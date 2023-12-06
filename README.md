@@ -1,5 +1,5 @@
 # Amazon-Predict-Worth-or-Not-Worth-with-Random-forest
-
+**Important Note for IntelliJ IDEA Users: After cloning the project, ensure to mark the src directory as a source root. Right-click on the src folder in the Project view, select "Mark Directory as" and then choose "Sources Root".**
 ## Project Structure
 
 Below is the structure of the project, which follows the MVC architecture:
